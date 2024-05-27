@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aswin Das P V</h1>
 <h3 align="center">A passionate Python Developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdni.iconscout.com/illustration/premium/thumb/male-python-developer-working-on-website-6081850-5054695.png?f=webp">
+<!--- <img align="right" alt="coding" width="400" src="https://png.pngtree.com/png-clipart/20220430/original/pngtree-programming-concept-in-3d-isometric-outline-design-developer-works-with-code-png-image_7601753.png"> --->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aswindas-pv&label=Profile%20views&color=0e75b6&style=flat" alt="aswindas-pv" /> </p>
 
