@@ -22,6 +22,7 @@
 </p>  --->
 
 <h3 align="left">Languages and Tools:</h3>
+
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -69,12 +70,15 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
 </p>
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aswindas-pv&show_icons=true&title_color=bb2acf&text_color=daf7dc&bg_color=191919" alt="aswindas-pv" /></p>
 
 <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aswindas-pv&show_icons=true&title_color=bb2acf&text_color=daf7dc&bg_color=191919" alt="aswindas-pv" /></p>
+
+<br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aswindas-pv" alt="aswindas-pv" /></a> </p>
 
