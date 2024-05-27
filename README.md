@@ -6,10 +6,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aswindas-pv&label=Profile%20views&color=0e75b6&style=flat" alt="aswindas-pv" /> </p>
 
-🔭 I’m currently working on Django + React<br><br>
-🌱 I’m currently learning **React** <br><br>
-💬 Ask me about **Django, Python, Html, React, SQL** <br><br>
-⚡ Fun fact: I thrive on multitasking!<br><br>
+🌱 I'm currently honing my skills in **Python**, **Django**, and **React**. 
+
+💬 Feel free to ask me about anything related to **Python**, **Django**, **HTML**, **React**, or **SQL**.
+
+😄 Fun fact: I love exploring new technologies and tackling challenges in the tech world!
+
 📫 How to reach me **pvaswindas@gmail.com** <br><br>
 <!--- 📫 How to reach me **aswindas@outlook.com** <br><br> --->
 
