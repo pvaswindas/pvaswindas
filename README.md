@@ -79,8 +79,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aswindas-pv&show_icons=true&title_color=bb2acf&text_color=daf7dc&bg_color=191919" alt="aswindas-pv" /></p>
 
 <br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aswindas-pv&theme=dark" alt="aswindas-pv" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aswindas-pv" alt="aswindas-pv" /></a> </p>
+<br>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aswindas-pv&theme=darkhub&row=2" alt="aswindas-pv" /></a> </p>
 
 <!---
 Aswindas-pv/Aswindas-pv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
