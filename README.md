@@ -17,11 +17,12 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/aswin-das-p-v/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswindas" height="30" width="40" /></a>
-<!--- <a href="https://stackoverflow.com/users/your-stackoverflow-id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="your-stackoverflow-id" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/your-hackerrank-id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="your-hackerrank-id" height="30" width="40" /></a>
-</p>  --->
+<div align="left">
+    <a href="https://www.linkedin.com/in/aswin-das-p-v/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswindas" height="30" width="40" /></a>
+    <a href="https://www.hackerrank.com/profile/aswinpv1801" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="your-hackerrank-id" height="30" width="40" /></a>
+    <a href="mailto:pvaswindas.dev@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="25" width="40" /></a>
+</div>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
