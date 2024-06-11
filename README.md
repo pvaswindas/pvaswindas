@@ -12,15 +12,13 @@
 
 😄 Fun fact: I love exploring new technologies and tackling challenges in the tech world!
 
-📫 How to reach me **pvaswindas@gmail.com** <br><br>
-<!--- 📫 How to reach me **aswindas@outlook.com** <br><br> --->
-
+📫 How to reach me **pvaswindas.dev@gmail.com** <br><br>
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
     <a href="https://www.linkedin.com/in/aswin-das-p-v/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswindas" height="30" width="40" /></a>
     <a href="https://www.hackerrank.com/profile/aswinpv1801" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="your-hackerrank-id" height="30" width="40" /></a>
-    <a href="mailto:pvaswindas@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="25" width="40" /></a>
+    <a href="mailto:pvaswindas.dev@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="25" width="40" /></a>
 </div>
 
 
