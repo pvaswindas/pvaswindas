@@ -1,6 +1,6 @@
 <!--- ![logo](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg) --->
-<h1 align="center">Hi 👋, I'm Aswin Das P V</h1>
-<h3 align="center">A passionate Python Developer from India</h3>
+<h1 align="left">Hi 👋, I'm Aswin Das P V</h1>
+<h3 align="left">A passionate Python Developer from India</h3>
 <!--- <img align="right" alt="coding" width="400" src="https://png.pngtree.com/png-clipart/20220430/original/pngtree-programming-concept-in-3d-isometric-outline-design-developer-works-with-code-png-image_7601753.png"> --->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aswindas-pv&label=Profile%20views&color=0e75b6&style=flat" alt="aswindas-pv" /> </p>
 🌱 I'm currently honing my skills in Python,and Django,.
