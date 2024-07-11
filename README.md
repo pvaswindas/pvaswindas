@@ -73,14 +73,14 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a> -->
 </p>
-<br>
+<!-- <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pvaswindas&show_icons=true&title_color=bb2acf&text_color=daf7dc&bg_color=191919" alt="pvaswindas" /></p>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pvaswindas&show_icons=true&title_color=bb2acf&text_color=daf7dc&bg_color=191919" alt="pvaswindas" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pvaswindas&theme=dark" alt="aswindas-pv" /></p>
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pvaswindas&theme=darkhub&row=2" alt="pvaswindas" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pvaswindas&theme=darkhub&row=2" alt="pvaswindas" /></a> </p> -->
 <!---
 Aswindas-pv/Aswindas-pv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
