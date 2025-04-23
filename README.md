@@ -1,7 +1,7 @@
 <!-- Intro -->
 <h3 align="center">
   <samp>&gt; Hey there, I am
-    <b><a target="_blank" href="https://www.linkedin.com/in/aswin-das-p-v/">Aswin Das P V</a></b>
+    <b><a target="_blank" href="https://www.linkedin.com/in/pvaswindas/">Aswin Das P V</a></b>
   </samp>
 </h3>
 <p align="center">
@@ -14,7 +14,7 @@
 
 <!-- Social Media Links -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/aswin-das-p-v/" target="_blank">
+  <a href="https://www.linkedin.com/in/pvaswindas/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.hackerrank.com/profile/pvaswindas_dev" target="_blank">
