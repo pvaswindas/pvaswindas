@@ -28,7 +28,7 @@
 <!-- About Section -->
 <h2 align="center">About Me</h2>
 <p align="center">
-  I specialize in building scalable backend solutions and full-stack applications using Python, Django, React, and cloud technologies. I enjoy optimizing performance, developing efficient APIs, and writing clean, maintainable code. Constantly learning and refining my skills, I stay updated with the latest advancements to build robust and impactful solutions.
+  I specialize in building scalable backend solutions and full-stack applications using Python, FastAPI, Django, React, and cloud technologies. I enjoy optimizing performance, developing efficient APIs, and writing clean, maintainable code. Constantly learning and refining my skills, I stay updated with the latest advancements to build robust and impactful solutions.
 </p>
 
 <!-- Technologies and Tools -->
