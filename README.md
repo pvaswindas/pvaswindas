@@ -9,7 +9,7 @@ Currently building localized automation systems, exploring agentic workflows, an
 
 ```bash
 # Core Execution Environment
-Languages      : Python, TypeScript
+Languages      : Python
 APIs & Core    : FastAPI, Django, Django REST Framework, gRPC, Webhooks
 Data & Storage : PostgreSQL, Redis, MongoDB, SQLAlchemy, Celery
 Infrastructure : Docker, AWS, GCP, Nginx, GitHub Actions, Serverless
